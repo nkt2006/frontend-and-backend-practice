@@ -413,6 +413,19 @@ main.content {
 }
 
 
+.product-button {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-weight: 600;
+    width: 100%;
+    transition: all 0.3s ease;
+}
+
+
 /* ===== НОВОСТИ===== */
 
 .newsbox {
