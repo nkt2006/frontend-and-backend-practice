@@ -4,4 +4,4 @@
 Этот репозиторий является выполнением практик 1-7 и 1-8
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://nkt2006.github.io/frontend-and-backend-practice/)
+- [Публичная страница на GitHub Pages](https://nkt2006.github.io/frontend-and-backend-practice/index_v1.html)
